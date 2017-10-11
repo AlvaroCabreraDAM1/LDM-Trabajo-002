@@ -1,4 +1,4 @@
-# Trabajo #002 LDM
+LDM/Trabajo/#002
 
 Ejercicio 2.1 Primer disseny web
 
